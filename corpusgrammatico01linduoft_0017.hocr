@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusgrammatico01linduoft_0017.png"; bbox 0 0 2263 2668; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 157 778 1945 958">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 157 778 1945 958">
+     <span class='ocr_line' id='line_1_1' title="bbox 157 778 1945 840; baseline -0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 157 782 446 840; x_wconf 87' lang='lat' dir='ltr'><strong>AELII</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 515 781 910 838; x_wconf 84' lang='lat' dir='ltr'><strong>DONATI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 978 778 1170 836; x_wconf 84' lang='lat' dir='ltr'><strong>ARS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1243 778 1945 837; x_wconf 81' lang='lat' dir='ltr'><strong>GRAMMATICA</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 564 908 1548 958; baseline -0.002 -3"><span class='ocrx_word' id='word_1_5' title='bbox 564 910 793 958; x_wconf 73' lang='lat' dir='ltr'><strong>TRmUS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 829 909 1039 956; x_wconf 73' lang='lat' dir='ltr'><strong>umus</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1081 908 1548 956; x_wconf 76' lang='lat' dir='ltr'><strong>COMPREHENSA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 457 1087 1657 1235">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 457 1087 1657 1235">
+     <span class='ocr_line' id='line_1_3' title="bbox 457 1087 1657 1125; baseline -0.002 -1"><span class='ocrx_word' id='word_1_8' title='bbox 457 1092 487 1124; x_wconf 82' lang='lat' dir='ltr'>E</span> <span class='ocrx_word' id='word_1_9' title='bbox 554 1087 1657 1125; x_wconf 83' lang='lat' dir='ltr'><strong>CODICESANTENIANO</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 670 1199 1446 1235; baseline 0 -1"><span class='ocrx_word' id='word_1_10' title='bbox 670 1199 1446 1235; x_wconf 87' lang='lat' dir='ltr'><strong>EMENDATIUS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 949 1321 1169 1344">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 949 1321 1169 1344">
+     <span class='ocr_line' id='line_1_5' title="bbox 949 1321 1169 1344; baseline 0.005 -1"><span class='ocrx_word' id='word_1_11' title='bbox 949 1321 1169 1344; x_wconf 77' lang='lat' dir='ltr'>EEEEEE</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
